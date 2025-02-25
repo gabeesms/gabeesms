@@ -9,28 +9,6 @@
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/gabeesms)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:gabriellemacieel@gmail.com)
 
-</div>
-<h3 align=center>Sobre mim</h3> 
-
-<p>
-🔹Bacharelado em Sistemas de Informação pela faculdade FAMETRO.
-</p>
-
-<p>
-🔹Especialização em Engenharia de Software na universidade PUC Minas.
-</p>
-
-<p>
-🔹Possuo experiência há mais de 3 anos com Desenvolvimento de Software Web.
-</p>
-
-<p>
-🔹Front-end: HTML, CSS, JavaScript, TypeScript, Vue.js, com integração a APIs RESTful.
-</p>
-<p>
-🔹Back-end: C# / .NET, Entity Framework, SQL Server, com integrações a sistemas ERP, incluindo Protheus (TOTVS).
-</p>
-
 <h2 align="center"> 📋 Github Stats </h2>
 
 <div align="center">
